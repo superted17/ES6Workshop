@@ -14,6 +14,4 @@ function displayPerson({name = 'No name', job = 'jobless'}) {
 
 // Brace on the left means I need to have an object on the right!
 
-// If the object passed in does not have the expected properties, we will get an error
-
-// It is an "Irrefutable" pattern. Javascript is no longer being forgiving...
+// If the object passed in does not have the expected properties, we will be assigned undefined

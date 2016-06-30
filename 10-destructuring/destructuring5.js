@@ -13,5 +13,5 @@ function displayPerson(p) {
 
     console.log(name);
     console.log(job);
-    console.log(address); // undefined
+    console.log(address);
 }
